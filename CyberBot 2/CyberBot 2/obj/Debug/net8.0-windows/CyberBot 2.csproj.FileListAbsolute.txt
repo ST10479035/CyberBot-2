@@ -1,0 +1,25 @@
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\CyberBot 2_MarkupCompile.cache
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\CyberBot 2.g.resources
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\CyberBot 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\CyberBot 2.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\CyberBot 2.AssemblyInfo.cs
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\CyberBot 2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\bin\Debug\net8.0-windows\CyberBot 2.exe
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\bin\Debug\net8.0-windows\greeting.wav
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\bin\Debug\net8.0-windows\CyberBot 2.deps.json
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\bin\Debug\net8.0-windows\CyberBot 2.runtimeconfig.json
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\bin\Debug\net8.0-windows\CyberBot 2.dll
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\bin\Debug\net8.0-windows\CyberBot 2.pdb
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\CyberBot 2.dll
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\refint\CyberBot 2.dll
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\CyberBot 2.pdb
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\CyberBot 2.genruntimeconfig.cache
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\ref\CyberBot 2.dll
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\bin\Debug\net8.0-windows\CyberBot Logo.jpg
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\obj\Debug\net8.0-windows\CyberBot 2_Content.g.cs
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\bin\Debug\net8.0-windows\ascii_logo.cs
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\bin\Debug\net8.0-windows\voice.cs
+C:\Users\Student\source\repos\CyberBot 2\CyberBot 2\bin\Debug\net8.0-windows\CyberBotLogo.jpg
